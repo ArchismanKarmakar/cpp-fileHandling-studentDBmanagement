@@ -1,12 +1,14 @@
+/*
+Author: Archisman Karmakar
+Date Created: 25.05.2019
+*/
+
 #include <fstream>
-// #include <stdio.h>
 #include <iostream>
 #include <cstring>
 #include <sstream>
 #include <fstream>
 #include <cstdlib>
-// #include<conio.h>
-// #include <string.h>
 
 using namespace std;
 
